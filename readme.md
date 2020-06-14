@@ -10,13 +10,13 @@
 ## Contents
 
 - [Articles](#articles)
-- [Packages](#packages)
+- [Scripts](#scripts)
 
 ## Articles
 
 - [Documentation](https://developers.google.com/apps-script/overview)
 
-## Packages
+## Scripts
 
 - [ImportJSON](https://github.com/bradjasper/ImportJSON) - Import JSON from any URL directly into your Google Sheets.
 - [gs-require](https://github.com/Richienb/gs-require) - Use Node.js `require`.
